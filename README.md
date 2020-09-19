@@ -16,6 +16,10 @@ Salvar Mudanças
 
 Gitpod > menu esquerdo botão Bifurcação > + em Changes > Dar nome pro commit > Aceitar > Menu direito botão github > Push
 
+Executar Código pela primeira vez
+
+Selecionar o Código > ctrl + Enter > Digitar Julia > ctrl + enter mais uma vez
+
 Executar Código
 
-Selecionar o Código > Shift + Enter 
+Selecionar o Código > ctrl + Enter
