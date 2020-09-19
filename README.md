@@ -7,3 +7,15 @@ https://chrome.google.com/webstore/detail/gitpod-dev-environments-i/dodmmooeokla
 Extensões Gitpod
 
 https://marketplace.visualstudio.com/items?itemName=singularitti.vscode-julia-formatter
+
+Clonar Repositório
+
+Import > Colar url: https://github.com/guiweymar/Julia > Dar nome.
+
+Salvar Mudanças
+
+Gitpod > menu esquerdo botão Bifurcação > + em Changes > Dar nome pro commit > Aceitar > Menu direito botão github > Push
+
+Executar Código
+
+Selecionar o Código > Shift + Enter 
